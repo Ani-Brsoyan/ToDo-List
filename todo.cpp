@@ -7,7 +7,7 @@ int todo::expCount;
 
 todo::todo()
 {
-	std::cout << "This is a daily ToDo list, so every input belong to today\n";
+	std::cout << "This is a daily ToDo list, so every input belongs to today\n";
 }
 
 void todo::addTask(const std::string& newTask)
